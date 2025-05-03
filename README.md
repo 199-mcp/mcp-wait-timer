@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/199-bio-mcp-wait-timer-badge.png)](https://mseep.ai/app/199-bio-mcp-wait-timer)
+
 # MCP Wait Timer Server
 
 An MCP (Model Context Protocol) server providing a simple `wait` tool.
