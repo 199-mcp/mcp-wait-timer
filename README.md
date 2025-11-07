@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server providing a simple `wait` tool.
 
+<a href="https://glama.ai/mcp/servers/@199-mcp/mcp-wait-timer">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@199-mcp/mcp-wait-timer/badge" alt="Wait Timer Server MCP server" />
+</a>
+
 Watch the demo video: [https://www.youtube.com/watch?v=TaF_j9wrWVw](https://www.youtube.com/watch?v=TaF_j9wrWVw)
 
 ## Overview
